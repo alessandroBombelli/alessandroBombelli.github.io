@@ -1,4 +1,40 @@
-## A C&Ollection of Python tutorials 
+# Table of contents
+1. [Introduction](#introduction)
+2. [Mixed Integer Linear Programmming Problems](#paragraph1)
+    1. [Air Cargo Routing Problem](#subparagraph1) 
+    2. [Cutting Stick Problem](#subparagraph1) 
+3. [Statistics](#paragraph2)
+    1. [ANOVA](#subparagraph1) 
+5. [Machine Learning](#paragraph3)
+    1. [Hierarchical Clustering](#subparagraph1) 
+
+## Introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Data Analysis
+
+Here we cover data analysis
+
+### Using pandas to analyze a dataframe
+
+## Mixed Integer Linear Programmming Problems <a name="paragraph1"></a>
+Here we cover MILPs
+
+### Air Cargo Routing Problem <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+### Cutting Stick Problem <a name="subparagraph2"></a>
+
+## Statistics <a name="paragraph2"></a>
+The second paragraph text
+
+### ANOVA <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Machine Learning <a name="paragraph3"></a>
+
+### Hierarchical Clustering <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
 
 You can use the [editor on GitHub](https://github.com/alessandroBombelli/alessandroBombelli.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,23 +70,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Cutting Stock problem
 
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
 
 
 
