@@ -28,6 +28,20 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Linear Optimization
+
+In this section, problems related to linear optimization will be covered
+
+<details>
+
+<summary>Click to expand!</summary>
+  
+  Ciao!
+
+</details>
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alessandroBombelli/alessandroBombelli.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
