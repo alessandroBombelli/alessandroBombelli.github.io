@@ -17,9 +17,6 @@ The solutions of a 2nd order equation are
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}]
 
-<---! (https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
---->
-
 Here we cover data analysis
 
 ### Using pandas to analyze a dataframe
