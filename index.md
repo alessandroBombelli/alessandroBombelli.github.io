@@ -28,7 +28,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Linear Optimization
+# Linear Optimization
+
+## Mixed Integer Linear Programming (MILP) model with pyomo
+
+## Cutting Stock problem
+
+
 
 In this section, problems related to linear optimization will be covered
 
