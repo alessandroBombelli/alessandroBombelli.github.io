@@ -33,14 +33,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 In this section, problems related to linear optimization will be covered
 
 <details>
-
 <summary>Click to expand!</summary>
-  
-  Ciao!
-
+Ciao!
 </details>
-
-
 
 ### Jekyll Themes
 
