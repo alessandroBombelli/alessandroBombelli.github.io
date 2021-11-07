@@ -25,6 +25,8 @@ This is a sub paragraph, formatted in heading 3 style
 
 ### Cutting Stick Problem <a name="subparagraph2"></a>
 
+![image info](./bpp-instance.png)
+
 ## Statistics <a name="paragraph2"></a>
 The second paragraph text
 
