@@ -17,7 +17,7 @@ The solutions of a 2nd order equation are
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
-![\max \sum_{i=1}^{K}x_i](https://latex.codecogs.com/svg.latex?\max&space; \sum_{i=1}^{K}x_i)
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;x^2&space;&plus;&space;\sin(x)&space;=&space;5" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;x^2&space;&plus;&space;\sin(x)&space;=&space;5" title="x^2 + \sin(x) = 5" /></a>
 
 Here we cover data analysis
 
